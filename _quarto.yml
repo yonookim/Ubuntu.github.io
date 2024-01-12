@@ -3,17 +3,15 @@ project:
   output-dir: docs # render directory
 
 website:
-  title: "tmp"
+  title: "blog"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: flaty
     css: styles.css
 
 

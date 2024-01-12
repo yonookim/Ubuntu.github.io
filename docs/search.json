@@ -25,6 +25,13 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is a post with executable code.\n\ntest\n\n\n\n스크린샷 2023-12-14 113405\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\nlogo\n\n\n\n\nimport tensorflow"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#section-1",
+    "href": "posts/post-with-code/index.html#section-1",
+    "title": "Post With Code",
+    "section": "",
+    "text": "logo\n\n\n\n\nimport tensorflow"
   }
 ]

@@ -7,3 +7,29 @@ image: "image.jpg"
 ---
 
 This is a post with executable code.
+
+# test
+
+
+![스크린샷 2023-12-14 113405](../../images/index/스크린샷 2023-12-14 113405.png)
+
+::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+:::
+
+![](./image.jpg)
+
+![logo](https://th.bing.com/th/id/R.4aa108082e7d3cbd55add79f84612aaa?rik=I4dbPhSe%2fbHHSg&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-google-logo-2015brandlogobrand-logoiconssymbolslogosgoogle-6815229372333mqrr.png&ehk=ewmaCOvP0Ji4QViEJnxSdlrYUrTSTWhi8nZ9XdyCgAI%3d&risl=&pid=ImgRaw&r=0)
+
+
+
+```c++
+
+```
+
+
+```python
+
+import tensorflow
+```
